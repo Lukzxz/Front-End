@@ -1,0 +1,32 @@
+img{
+    margin: 0 auto;
+    display:block;
+    height: 200px;
+}
+
+h1{
+    text-align: center;
+}
+
+.titulo{
+    text-transform: uppercase;
+    color: #005677;
+    background-color: #c4c4c4;
+}
+
+body{
+    margin: 0;
+    width: 100%;
+}
+
+footer{
+    text-transform: uppercase;
+    background-color: #005677;
+    text-align: center;
+    color: azure;
+}
+
+.iconos{
+    height: 20px;
+    display:inline;
+}
